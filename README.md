@@ -77,10 +77,25 @@ Input Image → Face Detection → Region Mapping → Resize Overlay → Blend �
 ---
 
 ### 📸 Results
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9fede7a9-6273-4ee3-9701-3bdcc2e4da31" width="300"/><br>
+      <b>Input Image</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/26677633-8e92-4702-88e1-52a0c268e72b" width="300"/><br>
+      <b>Overlay Image</b>
+    </td>
+  </tr>
+</table>
 
-* Automatically detects faces
-* Places sunglasses with realistic alignment
-* Works for multiple face sizes
+
+
+<img width="1239" height="155" alt="image" src="https://github.com/user-attachments/assets/e57a7614-5fca-4a8e-81cf-7203d931f971" />
+
+
+<img width="1028" height="628" alt="image" src="https://github.com/user-attachments/assets/38252624-568d-46ff-9eb3-0a3b79ae3ac7" />
 
 
 ---
